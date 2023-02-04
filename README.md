@@ -10,3 +10,5 @@ Projeto CRUD de agendas de contato desenvolvido em JavaScript, utilizando Expres
 - Bootstrap
 - JavaScript
 - MongoDB
+
+<p> Para execução do projeto, abrir dois terminais e digitar 'npm run dev' em um e 'npm start' em outro.
